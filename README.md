@@ -1,3 +1,4 @@
+![image](demo/001.jpg)
 # ● Emoji For Minecraft 🏖️
 
 # This is a Project of Minecraft Resource Pack, which replaced the Vanilla Emoji in pixel style with Microsoft Fluent Emoji, covering about 1.3k frequently-used emojis.
@@ -27,6 +28,6 @@ If you open the zip file of this pack, you'll see that there is just 2 json file
 作者网名：零雾〇五Fogg05
 
 # 
-![image](demo.jpg)
+![image](demo/002.jpg)
 
 Thanks for supprot. 感谢您的支持！
