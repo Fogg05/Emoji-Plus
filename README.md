@@ -1,6 +1,6 @@
-![image](demo/001.jpg)
+![image](description_image/001.jpg)
 
-# Emoji For Minecraft
+# Emoji+
 
 ### Replace the Vanilla Emoji in pixel style with Microsoft Fluent Emoji, covering about 1,300 frequently-used emojis.🏖️
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 《 高清 Emoji 》
+# Emoji+
 
 ### 将原版像素风格的 emoji 替换为微软的 Fluent-Emoji，涵盖了约 1,300 个常用的 emoji。🏖️
 
@@ -33,7 +33,7 @@
 作者网名：零雾〇五Fogg05
 
 # 
-![image](demo/002.jpg)
+![image](description_image/002.jpg)
 
 ---
 
