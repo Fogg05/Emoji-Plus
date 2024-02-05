@@ -10,7 +10,7 @@
 
 3. Remember to dye your emojis white.🎨 Emojis can also be colored in signs, but they look terrible.
 
-4. Game Versions: Designed for 1.21 ~ 1.19 and works well in many older versions, please test it out for yourself. 😴
+4. Game Versions: Designed for 1.21 ~ 1.19 and works well in many older versions, please test it out for yourself.😴
 
 ---
 
@@ -37,9 +37,9 @@
 
 ---
 
-If you open the zip file of this pack, you'll see that there is just 2 json files and 10 png textures, but that doesn't mean it's an easy task. I have encountered unprecedented difficulties in this project, which is in a completely new field where there is no previous work to refer to. The substantial amount of emojis and the limitations of Minecraft created countless barriers and errors to my job. I had to match the tons of images with their Unicode codes, manually. (It is the fact that GPT doesn't work.) And no one could realize that 12 normal and ordinary emojis could make the entire texture pack invalidated...... 🥲🥲🥲
+If you open the zip file of this pack, you'll see that there is just 2 json files and 10 png textures, but that doesn't mean it's an easy task. I have encountered unprecedented difficulties in this project, which is in a completely new field where there is no previous work to refer to. The substantial amount of emojis and the limitations of Minecraft created countless barriers and errors to my job. I had to match the tons of images with their Unicode codes, manually. (It is the fact that GPT doesn't work.) And no one could realize that 12 normal and ordinary emojis could make the entire texture pack invalidated......🥲🥲🥲
 
-如果你打开材质包的 zip 文件，你会发现它仅仅由 2 个完全相同的 json 文件和 10 张 png 贴图组成，但这并不代表这项工作十分简单。我在制作过程中我遇到了前所未有的困难，这个项目身处于一个没有已有作品可以参考借鉴的全新领域，emoji 的庞大数量和 Minecraft 的框架制造了无数的障碍和错误。我需要将数量庞大的 emoji 图片和它们的 Unicode 编码一一对应（事实证明 GPT 帮不了我），更没有人能够想到 12 个再普通不过的 emoji 能够使整个材质包失效…… 🥲🥲🥲
+如果你打开材质包的 zip 文件，你会发现它仅仅由 2 个完全相同的 json 文件和 10 张 png 贴图组成，但这并不代表这项工作十分简单。我在制作过程中我遇到了前所未有的困难，这个项目身处于一个没有已有作品可以参考借鉴的全新领域，emoji 的庞大数量和 Minecraft 的框架制造了无数的障碍和错误。我需要将数量庞大的 emoji 图片和它们的 Unicode 编码一一对应（事实证明 GPT 帮不了我），更没有人能够想到 12 个再普通不过的 emoji 能够使整个材质包失效……🥲🥲🥲
 
 ---
 
