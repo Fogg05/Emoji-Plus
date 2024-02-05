@@ -4,7 +4,7 @@
 
 ### Replace the Vanilla Emoji in pixel style with Microsoft Fluent Emoji, covering about 1,300 frequently-used emojis.🏖️
 
-4. Just as the usual way you type emojis in any text box, it will perform the the modified appearance. ⌨️ (Shortcut key: [Win]+[.])
+1. Just as the usual way you type emojis in any text box, it will perform the the modified appearance. ⌨️ (Shortcut key: [Win]+[.])
 
 2. Due to the limitations of the game's framework, I can't cover all the emojis.😵 And there are still some extra characters when typing some emojis which need to be deleted manually.🥶 It's easy to handle, and when you using this pack and facing with this little problem, you'll know how to deal with it, naturally.😶‍🌫️😶‍🌫️😶‍🌫️ I've tried my best to modify them as many and perfect as possible.🫠
 
