@@ -1,6 +1,6 @@
 ![image](demo/001.jpg)
 
-# ● Emoji For Minecraft 🏖️
+# Emoji For Minecraft 🏖️
 
 ## Replace the Vanilla Emoji in pixel style with Microsoft Fluent Emoji, covering about 1.3k frequently-used emojis.🏖️
 ● You can type emojis in game as a usual way.⌨️ (Shortcut key: [Win]+[.])
@@ -15,7 +15,7 @@
 
 ## 将原版像素风格的 emoji 替换为微软的 Fluent-Emoji，涵盖了约 1300 个常用的颜文字。
 
-● 只需要和正常输入emoji一样，它就会呈现出材质包所修改的高清的样式。⌨️（快捷键：[Win]+[.]⌨️）
+● 只需要和正常输入emoji一样，它就会呈现出材质包所修改的高清的样式。⌨️（快捷键：[Win]+[.]）
 
 ● 受限于游戏框架，无法覆盖所有 emoji。😵 另外在输入某些 emoji 时还是会出现几个多余的字符，需要手动删除。🥶 这很容易处理，当您在游戏中遇到这个小问题时，自然而然地就会知道如何处理它。😶‍🌫️😶‍🌫️😶‍🌫️ 我已经尽力了…… 🫠
 
